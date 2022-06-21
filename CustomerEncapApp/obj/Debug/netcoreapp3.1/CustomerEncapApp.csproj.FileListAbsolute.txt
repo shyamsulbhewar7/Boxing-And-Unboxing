@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\bin\Debug\netcoreapp3.1\CustomerEncapApp.exe
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\bin\Debug\netcoreapp3.1\CustomerEncapApp.deps.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\bin\Debug\netcoreapp3.1\CustomerEncapApp.runtimeconfig.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\bin\Debug\netcoreapp3.1\CustomerEncapApp.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\bin\Debug\netcoreapp3.1\CustomerEncapApp.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\bin\Debug\netcoreapp3.1\CustomerEncapApp.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\obj\Debug\netcoreapp3.1\CustomerEncapApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\obj\Debug\netcoreapp3.1\CustomerEncapApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\obj\Debug\netcoreapp3.1\CustomerEncapApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\obj\Debug\netcoreapp3.1\CustomerEncapApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\obj\Debug\netcoreapp3.1\CustomerEncapApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\obj\Debug\netcoreapp3.1\CustomerEncapApp.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\obj\Debug\netcoreapp3.1\CustomerEncapApp.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\CustomerEncapApp\obj\Debug\netcoreapp3.1\CustomerEncapApp.genruntimeconfig.cache

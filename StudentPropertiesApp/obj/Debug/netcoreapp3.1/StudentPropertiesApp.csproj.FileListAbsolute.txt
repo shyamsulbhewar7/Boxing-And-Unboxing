@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\bin\Debug\netcoreapp3.1\StudentPropertiesApp.exe
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\bin\Debug\netcoreapp3.1\StudentPropertiesApp.deps.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\bin\Debug\netcoreapp3.1\StudentPropertiesApp.runtimeconfig.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\bin\Debug\netcoreapp3.1\StudentPropertiesApp.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\bin\Debug\netcoreapp3.1\StudentPropertiesApp.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\bin\Debug\netcoreapp3.1\StudentPropertiesApp.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\obj\Debug\netcoreapp3.1\StudentPropertiesApp.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\obj\Debug\netcoreapp3.1\StudentPropertiesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\obj\Debug\netcoreapp3.1\StudentPropertiesApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\obj\Debug\netcoreapp3.1\StudentPropertiesApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\obj\Debug\netcoreapp3.1\StudentPropertiesApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\obj\Debug\netcoreapp3.1\StudentPropertiesApp.dll
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\obj\Debug\netcoreapp3.1\StudentPropertiesApp.pdb
+C:\Users\DELL\Desktop\SwabhavTechLab\Csharp\Projects\StudentPropertiesApp\obj\Debug\netcoreapp3.1\StudentPropertiesApp.genruntimeconfig.cache
